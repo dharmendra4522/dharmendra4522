@@ -23,3 +23,18 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dharmendra4522&show_icons=true&locale=en" alt="dharmendra4522" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dharmendra4522&" alt="dharmendra4522" /></p>
+
+---
+
+### 📅 Contributions in the Last Year
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
+</p>
+
+<!-- Optional credit -->
+<p align="center">
+  <sub>Generated with <a href="https://github.com/Platane/snk" target="_blank">Platane/snk</a></sub>
+</p>
+
